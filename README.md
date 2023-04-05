@@ -1,0 +1,1 @@
+This project implements an AWS infrastructure for managing multiple web applications with Terraform.
